@@ -1,0 +1,4 @@
+One	uno
+Two	dos
+Three	tres
+Four	cuatro
